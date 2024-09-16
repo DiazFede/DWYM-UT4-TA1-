@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import './card.css'; // Estilos del componente
+import './card.css'; 
 
 const Card = ({ title, description, assignedTo, startDate, endDate }) => {
   return (
